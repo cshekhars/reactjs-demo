@@ -1,0 +1,17 @@
+/.apt_generated/
+build
+target
+.classpath
+.settings
+.gradle
+bin
+.project
+input
+output
+bower_components
+logs
+metastore_db
+*.log
+.springBeans
+.class
+node_modules
